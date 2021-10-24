@@ -1,0 +1,21 @@
+{
+    "energy": "0.15eV",
+    "mass": "32.2keV",
+    "sigma": "0.3um",
+    "initial_sep": "2um",
+    "barrier_type": "Square",
+    "barrier_params": {
+        "width": "20nm", 
+        "height": "0.3eV"
+    },
+    "domain_size": "20um",
+    "display_size": "5um",
+    "absorb_frac": 0,
+    "rel_accuracy": 1e-4,
+    "num_frames": 20,
+    "y_min": 1e-20,
+    "output_dir": "output",
+    "save_frames": "False",
+    "dx": "0.05nm",
+    "x_stop": "1um"
+}

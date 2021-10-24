@@ -1,0 +1,22 @@
+{
+    "energy": "0.5MeV",
+    "mass": "3.7GeV",
+    "sigma": "2fm",
+    "initial_sep": "12fm",
+    "barrier_type": "Square",
+    "barrier_params": {
+        "width": "30fm", 
+        "initial_height": "1.0MeV", 
+        "final_height": "1.5MeV",
+        "transition_pos": "10fm" 
+    },
+    "domain_size": "1000fm",
+    "display_size": "400fm",
+    "absorb_frac": 0.05,
+    "rel_accuracy": 0,
+    "num_frames": 100,
+    "y_min": 1e-5,
+    "output_dir": "output",
+    "save_frames": "True",
+    "dx": "0.1fm"
+}
